@@ -1,8 +1,3 @@
-// Remove old recipe for the bottlecap from nuka cola mod
-craftingTable.remove(<item:nuka_cola_mod:bottle_cap>);
-
-// Add recipe for the bottlecap from nuka cola mod
-craftingTable.addShapeless("bottlecap_change_ancdebris48", <item:nuka_cola_mod:bottle_cap>*48, [<item:minecraft:ancient_debris>,<item:minecraft:red_dye>]);
-
-// Add extra recipe for the bottlecap from nuka cola mod
-craftingTable.addShapeless("bottlecap_change_nethscrap64", <item:nuka_cola_mod:bottle_cap>*64, [<item:minecraft:netherite_scrap>,<item:minecraft:red_dye>]);
+version https://git-lfs.github.com/spec/v1
+oid sha256:8f0c415a1cc0e4eb7eed38f9f419d588b8959f1469c7fd2ffac829ea060b078a
+size 542
