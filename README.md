@@ -1,4 +1,4 @@
-# **DEPRECATED**
+# **DEPRECATED** AS OF 2025-01-18
 
 mods and crafting scripts for the bum server :>
 
